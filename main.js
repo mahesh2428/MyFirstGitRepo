@@ -12,3 +12,14 @@ function substract(a, b) {
 function multiply(a, b) {
     return a * b;
 }
+
+
+
+
+
+
+
+// Feature 5
+function multiply2(a, b, c) {
+    return a *  b * c;
+}
