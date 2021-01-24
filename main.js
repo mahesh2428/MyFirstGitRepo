@@ -13,11 +13,10 @@ function multiply(a, b) {
     return a * b;
 }
 
-
-
-
-
-
+// Feature 4
+function divide(a, b) {
+    return a / b;
+}
 
 // Feature 5
 function multiply2(a, b, c) {
