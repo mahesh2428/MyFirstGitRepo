@@ -7,3 +7,8 @@ function add(a, b, c) {
 function substract(a, b) {
     return a - b;
 }
+
+// Feature 3
+function multiply(a, b) {
+    return a * b;
+}
