@@ -8,7 +8,7 @@ function add(a, b, c) {
 
 //  Feature 2
 function substract(a, b) {
-    return (a - b);
+    return ((a - b));
 }
 
 // Feature 3
